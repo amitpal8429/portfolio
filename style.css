@@ -46,7 +46,7 @@ body {
   }
   
   .hero .profile-img {
-    width: 160px;
+    width: 150px;
     height: 160px;
     object-fit: cover;
     border-radius: 50%;
